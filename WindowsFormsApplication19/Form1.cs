@@ -36,5 +36,10 @@ namespace WindowsFormsApplication19
         {
             MessageBox.Show("11");
         }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }
