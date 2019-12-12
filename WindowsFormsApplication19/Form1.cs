@@ -40,6 +40,7 @@ namespace WindowsFormsApplication19
         private void Button2_Click(object sender, EventArgs e)
         {
             Close();//123
+
         }
     }
 }
